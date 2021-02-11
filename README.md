@@ -12,12 +12,15 @@
 ## Conhecimentos / Knowledges
 
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link=https://github.com/euleoterio/)](https://github.com/euleoterio/)
+[![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java&link=https://github.com/euleoterio/)](https://github.com/euleoterio/)
+
 
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&link=https://github.com/euleoterio/)](https://github.com/euleoterio/)
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&link=https://github.com/euleoterio/)](https://github.com/euleoterio/)
 
 [![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react&link=https://github.com/euleoterio/)](https://github.com/euleoterio/)
 [![ReactNative](https://img.shields.io/badge/-ReactNative-black?style=flat-square&logo=react&link=https://github.com/euleoterio/)](https://github.com/euleoterio/)
+[![SpringBoot](https://img.shields.io/badge/-Spring-black?style=flat-square&logo=spring&link=https://github.com/euleoterio/)](https://github.com/euleoterio/)
 
 [![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js&link=https://github.com/euleoterio/)](https://github.com/euleoterio/)
 
