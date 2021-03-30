@@ -5,9 +5,9 @@
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/viniciuseuleoterio)](https://t.me/viniciuseuleoterio)
 [![Hotmail Badge](https://img.shields.io/badge/-Hotmail-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:vinicius.euleoterio@hotmail.com)](mailto:vinicius.euleoterio@hotmail.com)
 
-    Olá meu nome é Vinicius Euleoterio, Analista de Cognição e aspirante a Desenvolvedor Fullstack JavaScript.
+    Olá meu nome é Vinicius Euleoterio, Analista de Cognição e aspirante a Desenvolvedor Fullstack.
     /
-    Hello my name is Vinicius Euleoterio, Cognition Analyst and aspiring Fullstack JavaScript Developer.
+    Hello my name is Vinicius Euleoterio, Cognition Analyst and aspiring Fullstack Developer.
 
 ## Conhecimentos / Knowledges
 
