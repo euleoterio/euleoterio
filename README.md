@@ -5,15 +5,15 @@
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/viniciuseuleoterio)](https://t.me/viniciuseuleoterio)
 [![Hotmail Badge](https://img.shields.io/badge/-Hotmail-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:vinicius.euleoterio@hotmail.com)](mailto:vinicius.euleoterio@hotmail.com)
 
-    Olá meu nome é Vinicius Euleoterio, Analista de Cognição e aspirante a Desenvolvedor Fullstack.
+    Olá meu nome é Vinicius Euleoterio, Analista Sênior de Desenvolvimento de Aplicativos e aspirante a Desenvolvedor Fullstack.
     /
-    Hello my name is Vinicius Euleoterio, Cognition Analyst and aspiring Fullstack Developer.
+    Hello my name is Vinicius Euleoterio, Application Development Senior Analyst and aspiring Fullstack Developer.
 
 ## Conhecimentos / Knowledges
 
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link=https://github.com/euleoterio/)](https://github.com/euleoterio/)
 [![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java&link=https://github.com/euleoterio/)](https://github.com/euleoterio/)
-
+[![Kotlin](https://img.shields.io/badge/-Kotlin-black?style=flat-square&logo=kotlin&link=https://github.com/euleoterio/)](https://github.com/euleoterio/)
 
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&link=https://github.com/euleoterio/)](https://github.com/euleoterio/)
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&link=https://github.com/euleoterio/)](https://github.com/euleoterio/)
