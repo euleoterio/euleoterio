@@ -23,6 +23,7 @@
 [![SpringBoot](https://img.shields.io/badge/-Spring-black?style=flat-square&logo=spring&link=https://github.com/euleoterio/)](https://github.com/euleoterio/)
 
 [![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js&link=https://github.com/euleoterio/)](https://github.com/euleoterio/)
+[![Angularjs](https://img.shields.io/badge/-Angularjs-black?style=flat-square&logo=Angularjs&link=https://github.com/euleoterio/)](https://github.com/euleoterio/)
 
 [![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb&link=https://github.com/euleoterio/)](https://github.com/euleoterio/)
 [![PostgreSql](https://img.shields.io/badge/-PostgreSql-black?style=flat-square&logo=postgresql&link=https://github.com/euleoterio/)](https://github.com/euleoterio/)
