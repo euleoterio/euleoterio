@@ -6,12 +6,13 @@
 [![Hotmail Badge](https://img.shields.io/badge/-Hotmail-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:vinicius.euleoterio@hotmail.com)](mailto:vinicius.euleoterio@hotmail.com)
 
     Olá meu nome é Vinicius Euleoterio, Analista Desenvolvedor Sr. e aspirante a Desenvolvedor Fullstack.
-    /
+   
     Hello my name is Vinicius Euleoterio, Sr Developer Analyst and aspiring Fullstack Developer.
 
 ## Conhecimentos / Knowledges
 
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link=https://github.com/euleoterio/)](https://github.com/euleoterio/)
+[![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript&link=https://github.com/euleoterio/)](https://github.com/euleoterio/)
 [![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java&link=https://github.com/euleoterio/)](https://github.com/euleoterio/)
 [![Kotlin](https://img.shields.io/badge/-Kotlin-black?style=flat-square&logo=kotlin&link=https://github.com/euleoterio/)](https://github.com/euleoterio/)
 
@@ -27,8 +28,9 @@
 
 [![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb&link=https://github.com/euleoterio/)](https://github.com/euleoterio/)
 [![PostgreSql](https://img.shields.io/badge/-PostgreSql-black?style=flat-square&logo=postgresql&link=https://github.com/euleoterio/)](https://github.com/euleoterio/)
+[![Oracle](https://img.shields.io/badge/-Oracle-black?style=flat-square&logo=oracle&link=https://github.com/euleoterio/)](https://github.com/euleoterio/)
 
-
+[![Bamboo](https://img.shields.io/badge/-Bamboo-181717?style=flat-square&logo=bamboo&link=https://github.com/euleoterio/)](https://github.com/euleoterio/)
 [![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab&link=https://github.com/euleoterio/)](https://github.com/euleoterio/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&link=https://github.com/euleoterio/)](https://github.com/euleoterio/)
 
